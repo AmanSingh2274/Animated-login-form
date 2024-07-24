@@ -9,7 +9,7 @@ Welcome to the **Animated Login Page** repository! This project features a sleek
 
 ## Features
 
-- **Smooth Animations :**Provides a modern and engaging user experience.
+- **Smooth Animations :** Provides a modern and engaging user experience.
 - **Responsive Design:** Ensures compatibility across various devices and screen sizes.
 - **Clean and Minimalist UI:** Focuses on simplicity and ease of use.
 
