@@ -1,4 +1,4 @@
-# Animated Login Page
+# Animated Login Page 
 
 Welcome to the **Animated Login Page** repository! This project features a sleek, responsive, and animated login page built with HTML, CSS, and JavaScript.
 
